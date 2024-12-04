@@ -1,0 +1,7 @@
+taurus
+guiqwt
+pyqt6
+pyqtgraph
+nidaqmx
+pandas
+openpyxl
